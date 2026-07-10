@@ -3,22 +3,28 @@
 </p>
 
 <h1 align="center">
-Machine Learning-Based Neurotoxicity Prediction
+# 🧠 Machine Learning-Based Neurotoxicity Prediction
 </h1>
 
 <p align="center">
 Predicting Drug-Induced Neurotoxicity using Molecular Descriptors and Artificial Intelligence
+
+A reproducible machine learning framework for early prediction of drug-induced neurotoxicity using molecular descriptors, cheminformatics, and supervised machine learning algorithms.
+
 </p>
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 
-![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-green)
+![Python](https://img.shields.io/badge/PYTHON-3.11-blue?logo=python)
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange?logo=scikit-learn)
+![RDKIT](https://img.shields.io/badge/RDKIT-CHEMINFORMATICS-green)
 
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-MACHINE%20LEARNING-orange)
+
+![PUBCHEM](https://img.shields.io/badge/PUBCHEM-DATABASE-blue)
+
+![MIT](https://img.shields.io/badge/LICENSE-MIT-success)
 
 </p>
 
