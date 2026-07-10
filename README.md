@@ -20,21 +20,24 @@ Predicting Drug-Induced Neurotoxicity using Molecular Descriptors and Artificial
 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![Status](https://img.shields.io/badge/Status-Active-success)
-
 </p>
 
 ---
 
 # 🧠 Overview
 
-Drug-induced neurotoxicity is a major challenge in pharmaceutical research and clinical therapeutics, often leading to severe neurological complications, treatment discontinuation, and failure during drug development.
+Drug-induced neurotoxicity is a major challenge during drug discovery and development. Traditional laboratory evaluation is often expensive and time-consuming, motivating the development of computational approaches for early toxicity screening.
 
-Early computational prediction of neurotoxicity enables researchers to identify potentially harmful compounds before expensive laboratory experiments, accelerating safer drug discovery while reducing both cost and time.
+This project presents a machine learning pipeline that predicts the neurotoxicity potential of chemical compounds using molecular descriptors generated from their chemical structures. The workflow integrates chemoinformatics, feature engineering, and supervised machine learning to classify compounds as neurotoxic or neuroprotective.
 
-This repository presents an **end-to-end machine learning pipeline** for predicting neurotoxicity from molecular structures using molecular descriptors and chemical fingerprints. The workflow integrates automated compound curation, molecular structure retrieval, descriptor generation, feature engineering, supervised machine learning, and prediction of previously unseen compounds.
+The complete pipeline covers:
 
-The project combines **Cheminformatics**, **Computational Toxicology**, and **Machine Learning** into a reproducible research workflow suitable for drug discovery applications.
+- Curating neuroactive compounds
+- Retrieving molecular structures from PubChem
+- Generating molecular descriptors using RDKit
+- Data preprocessing and feature engineering
+- Machine learning model development
+- Model evaluation and prediction of novel compounds
 
 ---
 
@@ -159,11 +162,8 @@ The project integrates widely adopted open-source tools from cheminformatics, ma
 | Data Processing | Pandas | Data manipulation |
 | Numerical Computing | NumPy | Numerical operations |
 | Machine Learning | Scikit-learn | Classification models |
-| Gradient Boosting | XGBoost | Ensemble learning |
-| Explainable AI | SHAP | Model interpretation |
 | Visualization | Matplotlib | Scientific plotting |
 | Visualization | Seaborn | Statistical graphics |
-| Notebook Environment | Jupyter Notebook | Interactive analysis |
 
 ---
 
@@ -179,19 +179,25 @@ Neurotoxicity-Prediction-ML/
 │
 ├── assets/
 │   ├── banner.png
-│   ├── workflow_1.png
-│   ├── ml_pipeline.png
-│   └── software-stack.png
+│   ├── workflow.png
+│   ├── ML_pipeline.png
+│   └── software_stack.png
 │
 ├── data/
 │   ├── raw/
+        ├── candidate_compounds.csv
 │   └── processed/
+        └── new_compounds.csv
 │
-├── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_descriptor_generation.ipynb
-│   ├── 03_model_training.ipynb
-│   └── 04_prediction.ipynb
+├── scripts/
+│   ├── 01_clean_candidate_list.py
+│   ├── 02_fetch_pubchem.py
+│   ├── 03_validate_structures.py
+    ├── 04_generate_rdkit_descriptors.py
+    ├── 05_generate_fingerprints.py
+    ├── 06_train_models.py
+    ├── 07_predict_new_compounds.py
+│   └── check_descriptors.py
 │
 ├── models/
 │
