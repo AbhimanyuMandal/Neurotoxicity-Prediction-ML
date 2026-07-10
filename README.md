@@ -138,3 +138,445 @@ The workflow can be applied to:
 - Lead Compound Prioritization
 - Chemical Risk Assessment
 - Bioinformatics Research
+
+---
+
+# 🛠️ Technology Stack
+
+<p align="center">
+
+<img src="assets/software-stack.png" width="80%">
+
+</p>
+
+The project integrates widely adopted open-source tools from cheminformatics, machine learning, and scientific computing.
+
+| Category | Technology | Purpose |
+|-----------|------------|---------|
+| Programming Language | Python | Workflow development |
+| Chemical Database | PubChem | Compound information & SMILES retrieval |
+| Cheminformatics | RDKit | Molecular descriptors & fingerprints |
+| Data Processing | Pandas | Data manipulation |
+| Numerical Computing | NumPy | Numerical operations |
+| Machine Learning | Scikit-learn | Classification models |
+| Gradient Boosting | XGBoost | Ensemble learning |
+| Explainable AI | SHAP | Model interpretation |
+| Visualization | Matplotlib | Scientific plotting |
+| Visualization | Seaborn | Statistical graphics |
+| Notebook Environment | Jupyter Notebook | Interactive analysis |
+
+---
+
+# 📂 Repository Structure
+
+```text
+Neurotoxicity-Prediction-ML/
+
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+│
+├── assets/
+│   ├── banner.png
+│   ├── workflow_1.png
+│   ├── ml_pipeline.png
+│   └── software-stack.png
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   ├── 01_data_preprocessing.ipynb
+│   ├── 02_descriptor_generation.ipynb
+│   ├── 03_model_training.ipynb
+│   └── 04_prediction.ipynb
+│
+├── models/
+│
+├── figures/
+│
+├── reports/
+│
+└── scripts/
+```
+
+The repository follows a modular organization to improve readability, reproducibility, and future scalability.
+
+---
+
+# ⚙️ Pipeline Components
+
+The project consists of several computational stages.
+
+---
+
+## 1️⃣ Compound Curation
+
+### Objective
+
+Create a curated dataset of neurotoxic and neuroprotective compounds for supervised learning.
+
+### Tasks
+
+- Compound collection
+- Duplicate removal
+- Label assignment
+- Dataset validation
+
+### Output
+
+Clean labelled compound dataset
+
+---
+
+## 2️⃣ Molecular Structure Retrieval
+
+### Objective
+
+Retrieve molecular structures from PubChem.
+
+### Tasks
+
+- Query PubChem
+- Download canonical SMILES
+- Validate molecular identifiers
+
+### Output
+
+Canonical SMILES dataset
+
+---
+
+## 3️⃣ Molecular Descriptor Generation
+
+### Objective
+
+Transform molecular structures into numerical features.
+
+### Tasks
+
+- RDKit descriptor calculation
+- Physicochemical properties
+- Topological descriptors
+- Molecular fingerprints
+
+### Output
+
+Descriptor matrix
+
+---
+
+## 4️⃣ Data Preprocessing
+
+### Objective
+
+Prepare descriptors for machine learning.
+
+### Tasks
+
+- Missing value handling
+- Duplicate removal
+- Feature selection
+- Data normalization
+
+### Output
+
+Machine-learning-ready dataset
+
+---
+
+## 5️⃣ Feature Engineering
+
+### Objective
+
+Improve predictive performance.
+
+### Tasks
+
+- Remove low variance features
+- Remove redundant descriptors
+- Descriptor optimization
+
+### Output
+
+Optimized feature matrix
+
+---
+
+## 6️⃣ Machine Learning
+
+### Objective
+
+Train predictive classification models.
+
+### Tasks
+
+- Train/Test Split
+- Model fitting
+- Hyperparameter optimization
+- Cross Validation
+
+### Output
+
+Trained predictive model
+
+---
+
+## 7️⃣ Model Evaluation
+
+### Objective
+
+Evaluate predictive performance.
+
+### Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+- Confusion Matrix
+
+### Output
+
+Model performance report
+
+---
+
+## 8️⃣ Prediction
+
+### Objective
+
+Predict neurotoxicity of unseen compounds.
+
+### Output
+
+Predicted toxicity labels
+
+---
+
+# 📦 Dataset
+
+The project uses curated chemical compounds labelled according to their reported neurotoxicity.
+
+## Dataset Characteristics
+
+- Binary Classification Problem
+- Neurotoxic Compounds
+- Neuroprotective Compounds
+- Canonical SMILES Representation
+- Molecular Descriptor Features
+- Chemical Fingerprints
+
+Each compound is converted into numerical molecular descriptors suitable for machine learning using RDKit.
+
+---
+
+# 📈 Machine Learning Models
+
+The workflow supports multiple supervised learning algorithms.
+
+Current models include:
+
+- Logistic Regression
+- Support Vector Machine (SVM)
+- Random Forest
+- XGBoost
+- Gradient Boosting
+- K-Nearest Neighbors
+- Decision Tree
+- Naive Bayes
+
+The modular workflow allows additional models to be integrated with minimal modifications.
+
+---
+
+# 📜 Workflow Scripts
+
+| Script | Description |
+|----------|-------------|
+| Data Preparation | Cleans and prepares the curated compound dataset |
+| PubChem Retrieval | Downloads canonical SMILES from PubChem |
+| Descriptor Generation | Computes molecular descriptors using RDKit |
+| Fingerprint Generation | Creates molecular fingerprints |
+| Data Preprocessing | Cleans and scales feature matrices |
+| Model Training | Trains supervised ML models |
+| Model Evaluation | Calculates classification metrics |
+| Prediction | Predicts neurotoxicity for new compounds |
+
+---
+
+# 📊 Results
+
+The developed machine learning pipeline successfully predicts the neurotoxicity potential of chemical compounds using molecular descriptors generated from chemical structures.
+
+The workflow demonstrates the complete cheminformatics pipeline:
+
+- Curated compound dataset
+- Molecular descriptor generation
+- Feature engineering
+- Machine learning classification
+- Performance evaluation
+- Prediction of unseen compounds
+
+> **Note**
+>
+> Model performance will be updated after final training on the complete curated dataset.
+
+---
+
+# 📈 Model Evaluation
+
+The following evaluation metrics are used to compare machine learning models.
+
+| Metric | Description |
+|---------|-------------|
+| Accuracy | Overall prediction performance |
+| Precision | Positive prediction quality |
+| Recall | Sensitivity towards neurotoxic compounds |
+| F1 Score | Balance between Precision and Recall |
+| ROC-AUC | Classification capability |
+| Confusion Matrix | Detailed prediction summary |
+
+Visualizations include:
+
+- ROC Curve
+- Precision-Recall Curve
+- Confusion Matrix
+- Feature Importance
+- SHAP Summary Plot
+
+---
+
+# 🔍 Explainable AI
+
+Model interpretability is performed using **SHAP (SHapley Additive Explanations)**.
+
+SHAP helps identify:
+
+- Important molecular descriptors
+- Feature contribution
+- Model decision process
+- Compound-specific explanations
+
+This improves transparency and confidence in toxicity prediction.
+
+---
+
+# 🔄 Reproducibility
+
+The workflow has been designed following reproducible research practices.
+
+Features include:
+
+- Modular Python scripts
+- Version-controlled source code
+- Standardized project structure
+- Open-source software
+- Fixed random seeds
+- Documented workflow
+- Easily extendable pipeline
+
+---
+
+# 🚀 Future Improvements
+
+Potential future enhancements include:
+
+- Expand dataset to >1000 compounds
+- Hyperparameter optimization
+- Deep Learning models
+- Graph Neural Networks (GNN)
+- Molecular docking integration
+- ADMET prediction
+- External validation dataset
+- Web application deployment using Streamlit
+- Docker containerization
+- GitHub Actions for automated testing
+
+---
+
+# 📚 References
+
+### Software
+
+This project utilizes several open-source scientific libraries including:
+
+- RDKit
+- PubChemPy
+- Scikit-learn
+- XGBoost
+- Pandas
+- NumPy
+- SHAP
+- Matplotlib
+- Seaborn
+
+Please cite the respective software packages if used in scientific research.
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the **LICENSE** file for additional details.
+
+---
+
+# 📖 Citation
+
+If you use this repository in your research, please cite:
+
+```text
+Mandal A.
+Neurotoxicity Prediction Using Machine Learning and Molecular Descriptors.
+GitHub Repository.
+```
+
+Citation information will be updated following publication.
+
+---
+
+# 👨‍💻 Author
+
+## Abhimanyu Mandal
+
+Computational Biologist • Bioinformatics Researcher • Machine Learning Enthusiast
+
+🌐 **Portfolio**
+
+https://abhimanyumandal.github.io/Personal-Portfolio/
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/abhimanyu-mandal/
+
+📧 **Email**
+
+abhimanyumandal0810@gmail.com
+
+---
+
+# 🙏 Acknowledgements
+
+This project was inspired by the application of cheminformatics and machine learning for computational toxicity prediction.
+
+Special thanks to:
+
+- PubChem
+- RDKit Community
+- Scikit-learn Developers
+- Open-source Scientific Computing Community
+
+---
+
+<div align="center">
+
+### ⭐ If you found this repository useful, please consider giving it a Star!
+
+**Building interpretable machine learning models for computational neurotoxicity prediction.**
+
+</div>
