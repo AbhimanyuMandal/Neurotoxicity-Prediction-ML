@@ -16,15 +16,10 @@ A reproducible machine learning framework for early prediction of drug-induced n
 <p align="center">
 
 
-![Python](https://img.shields.io/badge/PYTHON-3.11-blue?logo=python)
-
-![RDKIT](https://img.shields.io/badge/RDKIT-CHEMINFORMATICS-green)
-
-![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-MACHINE%20LEARNING-orange)
-
-![PUBCHEM](https://img.shields.io/badge/PUBCHEM-DATABASE-blue)
-
-![MIT](https://img.shields.io/badge/LICENSE-MIT-success)
+<img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" />
+<img src="https://img.shields.io/badge/RDKit-Cheminformatics-green" />
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn" />
+<img src="https://img.shields.io/badge/License-MIT-brightgreen" />
 
 </p>
 
