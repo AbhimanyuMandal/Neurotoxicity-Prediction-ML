@@ -25,7 +25,7 @@ A reproducible machine learning framework for early prediction of drug-induced n
 
 ---
 
-# 🧠 Overview
+# 🧬 Overview
 
 Drug-induced neurotoxicity is a major challenge during drug discovery and development. Traditional laboratory evaluation is often expensive and time-consuming, motivating the development of computational approaches for early toxicity screening.
 
