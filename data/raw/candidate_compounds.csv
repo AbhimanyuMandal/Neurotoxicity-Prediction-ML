@@ -1,0 +1,737 @@
+Compound_Name,Label,Class,Category
+Paclitaxel,1,Neurotoxic,Unknown
+Alpha-PVP,1,Neurotoxic,Unknown
+Docetaxel,1,Neurotoxic,Unknown
+Cabazitaxel,1,Neurotoxic,Unknown
+Ixabepilone,1,Neurotoxic,Unknown
+Vincristine,1,Neurotoxic,Unknown
+Vinblastine,1,Neurotoxic,Unknown
+Vinorelbine,1,Neurotoxic,Unknown
+Vindesine,1,Neurotoxic,Unknown
+Cisplatin,1,Neurotoxic,Unknown
+Oxaliplatin,1,Neurotoxic,Unknown
+Carboplatin,1,Neurotoxic,Unknown
+Bortezomib,1,Neurotoxic,Unknown
+Carfilzomib,1,Neurotoxic,Unknown
+Thalidomide,1,Neurotoxic,Unknown
+Lenalidomide,1,Neurotoxic,Unknown
+Pomalidomide,1,Neurotoxic,Unknown
+Eribulin,1,Neurotoxic,Unknown
+Cytarabine,1,Neurotoxic,Unknown
+Ifosfamide,1,Neurotoxic,Unknown
+Fludarabine,1,Neurotoxic,Unknown
+Methotrexate,1,Neurotoxic,Unknown
+Ciprofloxacin,1,Neurotoxic,Unknown
+Levofloxacin,1,Neurotoxic,Unknown
+Moxifloxacin,1,Neurotoxic,Unknown
+Ofloxacin,1,Neurotoxic,Unknown
+Gatifloxacin,1,Neurotoxic,Unknown
+Norfloxacin,1,Neurotoxic,Unknown
+Sparfloxacin,1,Neurotoxic,Unknown
+Trovafloxacin,1,Neurotoxic,Unknown
+Didanosine,1,Neurotoxic,Unknown
+Stavudine,1,Neurotoxic,Unknown
+Zalcitabine,1,Neurotoxic,Unknown
+Zidovudine,1,Neurotoxic,Unknown
+Isoniazid,1,Neurotoxic,Unknown
+Ethambutol,1,Neurotoxic,Unknown
+Metronidazole,1,Neurotoxic,Unknown
+Nitrofurantoin,1,Neurotoxic,Unknown
+Dapsone,1,Neurotoxic,Unknown
+Chloramphenicol,1,Neurotoxic,Unknown
+Linezolid,1,Neurotoxic,Unknown
+Polymyxin B,1,Neurotoxic,Unknown
+Colistin,1,Neurotoxic,Unknown
+Minocycline,1,Neurotoxic,Unknown
+Amphotericin B,1,Neurotoxic,Unknown
+Griseofulvin,1,Neurotoxic,Unknown
+Chloroquine,1,Neurotoxic,Unknown
+Mefloquine,1,Neurotoxic,Unknown
+Phenytoin,1,Neurotoxic,Unknown
+Lithium,1,Neurotoxic,Unknown
+Valproic acid,1,Neurotoxic,Unknown
+Vigabatrin,1,Neurotoxic,Unknown
+Carbamazepine,1,Neurotoxic,Unknown
+Ketamine,1,Neurotoxic,Unknown
+Phencyclidine,1,Neurotoxic,Unknown
+Nitrous Oxide,1,Neurotoxic,Unknown
+Propofol,1,Neurotoxic,Unknown
+Isoflurane,1,Neurotoxic,Unknown
+Sevoflurane,1,Neurotoxic,Unknown
+Ethanol,1,Neurotoxic,Unknown
+Methamphetamine,1,Neurotoxic,Unknown
+MDMA,1,Neurotoxic,Unknown
+Amphetamine,1,Neurotoxic,Unknown
+Cocaine,1,Neurotoxic,Unknown
+Cathinone,1,Neurotoxic,Unknown
+Methylphenidate,1,Neurotoxic,Unknown
+Lead,1,Neurotoxic,Unknown
+Mercuric Chloride,1,Neurotoxic,Unknown
+Arsenic Trioxide,1,Neurotoxic,Unknown
+Cadmium Chloride,1,Neurotoxic,Unknown
+Aluminium Chloride,1,Neurotoxic,Unknown
+Manganese Chloride,1,Neurotoxic,Unknown
+Thallium,1,Neurotoxic,Unknown
+Bismuth Subsalicylate,1,Neurotoxic,Unknown
+Copper,1,Neurotoxic,Unknown
+Methylmercury,1,Neurotoxic,Unknown
+Tetraethyl lead,1,Neurotoxic,Unknown
+Trimethyltin,1,Neurotoxic,Unknown
+Triethyltin,1,Neurotoxic,Unknown
+Gold Sodium Thiomalate,1,Neurotoxic,Unknown
+n-Hexane,1,Neurotoxic,Unknown
+Methyl n-butyl ketone,1,Neurotoxic,Unknown
+"2,5-Hexanedione",1,Neurotoxic,Unknown
+Toluene,1,Neurotoxic,Unknown
+Benzene,1,Neurotoxic,Unknown
+Trichloroethylene,1,Neurotoxic,Unknown
+Carbon Disulfide,1,Neurotoxic,Unknown
+Methanol,1,Neurotoxic,Unknown
+Carbon Tetrachloride,1,Neurotoxic,Unknown
+Xylene,1,Neurotoxic,Unknown
+Styrene,1,Neurotoxic,Unknown
+Dichloromethane,1,Neurotoxic,Unknown
+Acrylamide,1,Neurotoxic,Unknown
+Allyl Chloride,1,Neurotoxic,Unknown
+Carbon Monoxide,1,Neurotoxic,Unknown
+Chlorpyrifos,1,Neurotoxic,Unknown
+Malathion,1,Neurotoxic,Unknown
+Parathion,1,Neurotoxic,Unknown
+Diazinon,1,Neurotoxic,Unknown
+Sarin,1,Neurotoxic,Unknown
+Soman,1,Neurotoxic,Unknown
+Tabun,1,Neurotoxic,Unknown
+VX,1,Neurotoxic,Unknown
+Carbaryl,1,Neurotoxic,Unknown
+Methomyl,1,Neurotoxic,Unknown
+DDT,1,Neurotoxic,Unknown
+Lindane,1,Neurotoxic,Unknown
+Dieldrin,1,Neurotoxic,Unknown
+Permethrin,1,Neurotoxic,Unknown
+Deltamethrin,1,Neurotoxic,Unknown
+Cypermethrin,1,Neurotoxic,Unknown
+Paraquat,1,Neurotoxic,Unknown
+Rotenone,1,Neurotoxic,Unknown
+Strychnine,1,Neurotoxic,Unknown
+Sodium Fluoroacetate,1,Neurotoxic,Unknown
+Bromethalin,1,Neurotoxic,Unknown
+Tetrodotoxin,1,Neurotoxic,Unknown
+Saxitoxin,1,Neurotoxic,Unknown
+Anatoxin-a,1,Neurotoxic,Unknown
+Tetraethylammonium,1,Neurotoxic,Unknown
+Charybdotoxin,1,Neurotoxic,Unknown
+Iberiotoxin,1,Neurotoxic,Unknown
+Apamin,1,Neurotoxic,Unknown
+Dendrotoxin,1,Neurotoxic,Unknown
+Batrachotoxin,1,Neurotoxic,Unknown
+Veratridine,1,Neurotoxic,Unknown
+Aconitine,1,Neurotoxic,Unknown
+Ciguatoxin,1,Neurotoxic,Unknown
+Brevetoxin,1,Neurotoxic,Unknown
+Vincamine,1,Neurotoxic,Unknown
+Vincamone,1,Neurotoxic,Unknown
+Pyridoxine,1,Neurotoxic,Unknown
+Podophyllin resin,1,Neurotoxic,Unknown
+Cyclosporine A,1,Neurotoxic,Unknown
+Tacrolimus,1,Neurotoxic,Unknown
+Vinyl Chloride,1,Neurotoxic,Unknown
+Chloroacetaldehyde,1,Neurotoxic,Unknown
+Amiodarone,1,Neurotoxic,Unknown
+Perhexiline,1,Neurotoxic,Unknown
+Colchicine,1,Neurotoxic,Unknown
+Disulfiram,1,Neurotoxic,Unknown
+Leflunomide,1,Neurotoxic,Unknown
+Suramin,1,Neurotoxic,Unknown
+Hydralazine,1,Neurotoxic,Unknown
+Almitrine,1,Neurotoxic,Unknown
+Clioquinol,1,Neurotoxic,Unknown
+MPTP,1,Neurotoxic,Unknown
+MPP+,1,Neurotoxic,Unknown
+6-Hydroxydopamine,1,Neurotoxic,Unknown
+Bisphenol A,1,Neurotoxic,Unknown
+Polychlorinated Biphenyls,1,Neurotoxic,Unknown
+Dibutyl Phthalate,1,Neurotoxic,Unknown
+Cuprizone,1,Neurotoxic,Unknown
+3-Nitropropionic Acid,1,Neurotoxic,Unknown
+Ethidium Bromide,1,Neurotoxic,Unknown
+Sodium Azide,1,Neurotoxic,Unknown
+Sodium Cyanide,1,Neurotoxic,Unknown
+Hydrogen Sulfide,1,Neurotoxic,Unknown
+Ethionamide,1,Neurotoxic,Unknown
+Thallium acetate,1,Neurotoxic,Unknown
+Caramboxin,1,Neurotoxic,Unknown
+Pyrithiamine,1,Neurotoxic,Unknown
+25I-NBOMe,1,Neurotoxic,Unknown
+JWH-018,1,Neurotoxic,Unknown
+5-MeO-DiPT,1,Neurotoxic,Unknown
+Oxytetracycline,1,Neurotoxic,Unknown
+Gentamicin,1,Neurotoxic,Unknown
+Amikacin,1,Neurotoxic,Unknown
+Tobramycin,1,Neurotoxic,Unknown
+Neomycin,1,Neurotoxic,Unknown
+Streptomycin,1,Neurotoxic,Unknown
+Netilmicin,1,Neurotoxic,Unknown
+Kainic Acid,1,Neurotoxic,Unknown
+Domoic Acid,1,Neurotoxic,Unknown
+Quinolinic Acid,1,Neurotoxic,Unknown
+L-Glutamate,1,Neurotoxic,Unknown
+BMAA,1,Neurotoxic,Unknown
+L-BOAA,1,Neurotoxic,Unknown
+Atropine,1,Neurotoxic,Unknown
+Curare,1,Neurotoxic,Unknown
+Nicotine,1,Neurotoxic,Unknown
+Muscarine,1,Neurotoxic,Unknown
+Pilocarpine,1,Neurotoxic,Unknown
+Arecoline,1,Neurotoxic,Unknown
+Physostigmine,1,Neurotoxic,Unknown
+Neostigmine,1,Neurotoxic,Unknown
+Pyridostigmine,1,Neurotoxic,Unknown
+Edrophonium,1,Neurotoxic,Unknown
+Tacrine,1,Neurotoxic,Unknown
+Para-Methoxyamphetamine,1,Neurotoxic,Unknown
+Para-Methoxymethamphetamine,1,Neurotoxic,Unknown
+4-Methylmethcathinone,1,Neurotoxic,Unknown
+Methylone,1,Neurotoxic,Unknown
+MDPV,1,Neurotoxic,Unknown
+Heroin,1,Neurotoxic,Unknown
+Morphine,1,Neurotoxic,Unknown
+Fentanyl,1,Neurotoxic,Unknown
+Carfentanil,1,Neurotoxic,Unknown
+Methadone,1,Neurotoxic,Unknown
+Meperidine,1,Neurotoxic,Unknown
+Oxycodone,1,Neurotoxic,Unknown
+Hydrocodone,1,Neurotoxic,Unknown
+Codeine,1,Neurotoxic,Unknown
+Tramadol,1,Neurotoxic,Unknown
+Tapentadol,1,Neurotoxic,Unknown
+Buprenorphine,1,Neurotoxic,Unknown
+Pentazocine,1,Neurotoxic,Unknown
+Nalbuphine,1,Neurotoxic,Unknown
+Butorphanol,1,Neurotoxic,Unknown
+Dextromethorphan,1,Neurotoxic,Unknown
+Levorphanol,1,Neurotoxic,Unknown
+Salvinorin A,1,Neurotoxic,Unknown
+Ibogaine,1,Neurotoxic,Unknown
+Mescaline,1,Neurotoxic,Unknown
+Psilocybin,1,Neurotoxic,Unknown
+Psilocin,1,Neurotoxic,Unknown
+LSD,1,Neurotoxic,Unknown
+DMT,1,Neurotoxic,Unknown
+5-MeO-DMT,1,Neurotoxic,Unknown
+2C-B,1,Neurotoxic,Unknown
+2C-I,1,Neurotoxic,Unknown
+2C-E,1,Neurotoxic,Unknown
+Fly Agaric Ibotenic Acid,1,Neurotoxic,Unknown
+Muscimol,1,Neurotoxic,Unknown
+Thujone,1,Neurotoxic,Unknown
+Absinthe,1,Neurotoxic,Unknown
+Picrotoxin,1,Neurotoxic,Unknown
+Pentylenetetrazol,1,Neurotoxic,Unknown
+Bicuculline,1,Neurotoxic,Unknown
+Gabazine,1,Neurotoxic,Unknown
+Strychnine N-oxide,1,Neurotoxic,Unknown
+Brucine,1,Neurotoxic,Unknown
+Picrotin,1,Neurotoxic,Unknown
+Coriamyrtin,1,Neurotoxic,Unknown
+Tutine,1,Neurotoxic,Unknown
+Anisatin,1,Neurotoxic,Unknown
+Oenanthotoxin,1,Neurotoxic,Unknown
+Cicutoxin,1,Neurotoxic,Unknown
+Carotatoxin,1,Neurotoxic,Unknown
+Falcarinol,1,Neurotoxic,Unknown
+Capsaicin,1,Neurotoxic,Unknown
+Resiniferatoxin,1,Neurotoxic,Unknown
+Allyl Isothiocyanate,1,Neurotoxic,Unknown
+Acetonitrile,1,Neurotoxic,Unknown
+Acrylonitrile,1,Neurotoxic,Unknown
+Methacrylonitrile,1,Neurotoxic,Unknown
+Propionitrile,1,Neurotoxic,Unknown
+Butyronitrile,1,Neurotoxic,Unknown
+Malononitrile,1,Neurotoxic,Unknown
+Succinitrile,1,Neurotoxic,Unknown
+Adiponitrile,1,Neurotoxic,Unknown
+Benzonitrile,1,Neurotoxic,Unknown
+Nitrobenzene,1,Neurotoxic,Unknown
+Dinitrobenzene,1,Neurotoxic,Unknown
+Trinitrobenzene,1,Neurotoxic,Unknown
+Nitrotoluene,1,Neurotoxic,Unknown
+Dinitrotoluene,1,Neurotoxic,Unknown
+Trinitrotoluene,1,Neurotoxic,Unknown
+Aniline,1,Neurotoxic,Unknown
+Nitroaniline,1,Neurotoxic,Unknown
+Chloroaniline,1,Neurotoxic,Unknown
+Dimethylaniline,1,Neurotoxic,Unknown
+Alklymercury,1,Neurotoxic,Unknown
+Diethylmercury,1,Neurotoxic,Unknown
+Dimethylmercury,1,Neurotoxic,Unknown
+Phenylmercuric,1,Neurotoxic,Unknown
+Mercuric Oxide,1,Neurotoxic,Unknown
+Mercuric Cyanide,1,Neurotoxic,Unknown
+Sodium Arsenite,1,Neurotoxic,Unknown
+Sodium Arsenate,1,Neurotoxic,Unknown
+Potassium Arsenite,1,Neurotoxic,Unknown
+Arsine Gas,1,Neurotoxic,Unknown
+Lewisite,1,Neurotoxic,Unknown
+Trimethylarsine,1,Neurotoxic,Unknown
+Dimethylarsinic Acid,1,Neurotoxic,Unknown
+Monomethylarsonic Acid,1,Neurotoxic,Unknown
+Cadmium Oxide,1,Neurotoxic,Unknown
+Cadmium,1,Neurotoxic,Unknown
+Lead Nitrate,1,Neurotoxic,Unknown
+Lead Oxide,1,Neurotoxic,Unknown
+Tetramethyl lead,1,Neurotoxic,Unknown
+Triethyl lead,1,Neurotoxic,Unknown
+Barium,1,Neurotoxic,Unknown
+Barium Chloride,1,Neurotoxic,Unknown
+Barium Nitrate,1,Neurotoxic,Unknown
+Barium Hydroxide,1,Neurotoxic,Unknown
+Beryllium Oxide,1,Neurotoxic,Unknown
+Beryllium,1,Neurotoxic,Unknown
+Beryllium Chloride,1,Neurotoxic,Unknown
+Beryllium Nitrate,1,Neurotoxic,Unknown
+Thallium Chloride,1,Neurotoxic,Unknown
+Thallium Nitrate,1,Neurotoxic,Unknown
+Antimony Trichloride,1,Neurotoxic,Unknown
+Antimony Trioxide,1,Neurotoxic,Unknown
+Potassium Antimony,1,Neurotoxic,Unknown
+Stibine Gas,1,Neurotoxic,Unknown
+Tellurium Dioxide,1,Neurotoxic,Unknown
+Sodium Tellurite,1,Neurotoxic,Unknown
+Hexachlorobenzene,1,Neurotoxic,Unknown
+Pentachlorophenol,1,Neurotoxic,Unknown
+"2,4-Dichlorophenoxyacetic Acid",1,Neurotoxic,Unknown
+"2,4,5-Trichlorophenoxyacetic Acid",1,Neurotoxic,Unknown
+Agent Orange,1,Neurotoxic,Unknown
+TCDD,1,Neurotoxic,Unknown
+Polychlorinated Dibenzofurans,1,Neurotoxic,Unknown
+Endrin,1,Neurotoxic,Unknown
+Aldrin,1,Neurotoxic,Unknown
+Chlordane,1,Neurotoxic,Unknown
+Heptachlor,1,Neurotoxic,Unknown
+Toxaphene,1,Neurotoxic,Unknown
+Mirex,1,Neurotoxic,Unknown
+Chlordecone,1,Neurotoxic,Unknown
+Methoxychlor,1,Neurotoxic,Unknown
+Endosulfan,1,Neurotoxic,Unknown
+Alachlor,1,Neurotoxic,Unknown
+Metolachlor,1,Neurotoxic,Unknown
+Atrazine,1,Neurotoxic,Unknown
+Simazine,1,Neurotoxic,Unknown
+Cyanazine,1,Neurotoxic,Unknown
+Glyphosate,1,Neurotoxic,Unknown
+Glufosinate Ammonium,1,Neurotoxic,Unknown
+Diquat,1,Neurotoxic,Unknown
+Chlormequat,1,Neurotoxic,Unknown
+Mepiquat,1,Neurotoxic,Unknown
+Cyquat,1,Neurotoxic,Unknown
+Difenzoquat,1,Neurotoxic,Unknown
+Morfamquat,1,Neurotoxic,Unknown
+Phosphamidon,1,Neurotoxic,Unknown
+Dichlorvos,1,Neurotoxic,Unknown
+Monocrotophos,1,Neurotoxic,Unknown
+Dicrotophos,1,Neurotoxic,Unknown
+Mevinphos,1,Neurotoxic,Unknown
+Methamidophos,1,Neurotoxic,Unknown
+Acephate,1,Neurotoxic,Unknown
+Trichlorfon,1,Neurotoxic,Unknown
+Fenitrothion,1,Neurotoxic,Unknown
+Fenthion,1,Neurotoxic,Unknown
+Temephos,1,Neurotoxic,Unknown
+Methyl Parathion,1,Neurotoxic,Unknown
+Ethyl Parathion,1,Neurotoxic,Unknown
+Azinfos-Methyl,1,Neurotoxic,Unknown
+Azinfos-Ethyl,1,Neurotoxic,Unknown
+Dimethoate,1,Neurotoxic,Unknown
+Oxydemeton-Methyl,1,Neurotoxic,Unknown
+Phorate,1,Neurotoxic,Unknown
+Terbufos,1,Neurotoxic,Unknown
+Disulfoton,1,Neurotoxic,Unknown
+Fonofos,1,Neurotoxic,Unknown
+Ethoprophos,1,Neurotoxic,Unknown
+Fenamiphos,1,Neurotoxic,Unknown
+Cadusafos,1,Neurotoxic,Unknown
+Fosthiazate,1,Neurotoxic,Unknown
+Aldicarb,1,Neurotoxic,Unknown
+Oxamyl,1,Neurotoxic,Unknown
+Carbofuran,1,Neurotoxic,Unknown
+Propoxur,1,Neurotoxic,Unknown
+Bendiocarb,1,Neurotoxic,Unknown
+Fenobucarb,1,Neurotoxic,Unknown
+Isoprocarb,1,Neurotoxic,Unknown
+Carbosulfan,1,Neurotoxic,Unknown
+Benfuracarb,1,Neurotoxic,Unknown
+Allethrin,1,Neurotoxic,Unknown
+Bifenthrin,1,Neurotoxic,Unknown
+Fenpropathrin,1,Neurotoxic,Unknown
+Flucythrinate,1,Neurotoxic,Unknown
+Fluvalinate,1,Neurotoxic,Unknown
+Esfenvalerate,1,Neurotoxic,Unknown
+Fenvalerate,1,Neurotoxic,Unknown
+Lambda-Cyhalothrin,1,Neurotoxic,Unknown
+Tralomethrin,1,Neurotoxic,Unknown
+Tralocythrin,1,Neurotoxic,Unknown
+Imidacloprid,1,Neurotoxic,Unknown
+Acetamiprid,1,Neurotoxic,Unknown
+Thiamethoxam,1,Neurotoxic,Unknown
+Clothianidin,1,Neurotoxic,Unknown
+Dinotefuran,1,Neurotoxic,Unknown
+Nitenpyram,1,Neurotoxic,Unknown
+Thiacloprid,1,Neurotoxic,Unknown
+Fipronil,1,Neurotoxic,Unknown
+Ethiprole,1,Neurotoxic,Unknown
+Flufiprole,1,Neurotoxic,Unknown
+Pyriprole,1,Neurotoxic,Unknown
+Pyrafluprole,1,Neurotoxic,Unknown
+Rayanodine,1,Neurotoxic,Unknown
+Veratrine,1,Neurotoxic,Unknown
+Sabadilla,1,Neurotoxic,Unknown
+Ryania,1,Neurotoxic,Unknown
+Quassia,1,Neurotoxic,Unknown
+Rotenolone,1,Neurotoxic,Unknown
+Deguelin,1,Neurotoxic,Unknown
+Tephrosin,1,Neurotoxic,Unknown
+Memantine,0,Neuroprotective,Unknown
+Cyanocobalamin,0,Neuroprotective,Unknown
+Riluzole,0,Neuroprotective,Unknown
+Edaravone,0,Neuroprotective,Unknown
+Donepezil,0,Neuroprotective,Unknown
+Galantamine,0,Neuroprotective,Unknown
+Rivastigmine,0,Neuroprotective,Unknown
+Selegiline,0,Neuroprotective,Unknown
+Rasagiline,0,Neuroprotective,Unknown
+Safinamide,0,Neuroprotective,Unknown
+Pramipexole,0,Neuroprotective,Unknown
+Ropinirole,0,Neuroprotective,Unknown
+Rotigotine,0,Neuroprotective,Unknown
+Apomorphine,0,Neuroprotective,Unknown
+Amantadine,0,Neuroprotective,Unknown
+Levodopa,0,Neuroprotective,Unknown
+Carbidopa,0,Neuroprotective,Unknown
+Entacapone,0,Neuroprotective,Unknown
+Tolcapone,0,Neuroprotective,Unknown
+Opicapone,0,Neuroprotective,Unknown
+Coenzyme Q10,0,Neuroprotective,Unknown
+Idebenone,0,Neuroprotective,Unknown
+Resveratrol,0,Neuroprotective,Unknown
+Curcumin,0,Neuroprotective,Unknown
+Epigallocatechin Gallate,0,Neuroprotective,Unknown
+Quercetin,0,Neuroprotective,Unknown
+Melatonin,0,Neuroprotective,Unknown
+N-Acetylcysteine,0,Neuroprotective,Unknown
+Alpha-Lipoic Acid,0,Neuroprotective,Unknown
+Creatine,0,Neuroprotective,Unknown
+NAD+,0,Neuroprotective,Unknown
+Nicotinamide Riboside,0,Neuroprotective,Unknown
+Nicotinamide Mononucleotide,0,Neuroprotective,Unknown
+Citicoline,0,Neuroprotective,Unknown
+Alpha-GPC,0,Neuroprotective,Unknown
+Phosphatidylserine,0,Neuroprotective,Unknown
+Huperzine A,0,Neuroprotective,Unknown
+Vinpocetine,0,Neuroprotective,Unknown
+Ginkgolide B,0,Neuroprotective,Unknown
+Bilobalide,0,Neuroprotective,Unknown
+Bacoside A,0,Neuroprotective,Unknown
+Sulforaphane,0,Neuroprotective,Unknown
+Ashwagandha,0,Neuroprotective,Unknown
+Ginsenoside Rg1,0,Neuroprotective,Unknown
+Ginsenoside Rb1,0,Neuroprotective,Unknown
+Astragaloside IV,0,Neuroprotective,Unknown
+Salidroside,0,Neuroprotective,Unknown
+Apigenin,0,Neuroprotective,Unknown
+Luteolin,0,Neuroprotective,Unknown
+Fisetin,0,Neuroprotective,Unknown
+Kaempferol,0,Neuroprotective,Unknown
+Lithium Chloride,0,Neuroprotective,Unknown
+Sodium Butyrate,0,Neuroprotective,Unknown
+Valproic Acid,0,Neuroprotective,Unknown
+Trichostatin A,0,Neuroprotective,Unknown
+Vorinostat,0,Neuroprotective,Unknown
+Metformin,0,Neuroprotective,Unknown
+Pioglitazone,0,Neuroprotective,Unknown
+Rosiglitazone,0,Neuroprotective,Unknown
+Exenatide,0,Neuroprotective,Unknown
+Liraglutide,0,Neuroprotective,Unknown
+Semaglutide,0,Neuroprotective,Unknown
+Dulaglutide,0,Neuroprotective,Unknown
+Dapagliflozin,0,Neuroprotective,Unknown
+Empagliflozin,0,Neuroprotective,Unknown
+Simvastatin,0,Neuroprotective,Unknown
+Atorvastatin,0,Neuroprotective,Unknown
+Pravastatin,0,Neuroprotective,Unknown
+Rosuvastatin,0,Neuroprotective,Unknown
+Lovastatin,0,Neuroprotective,Unknown
+URB597,0,Neuroprotective,Unknown
+AM251,0,Neuroprotective,Unknown
+Cannabidiol,0,Neuroprotective,Unknown
+Tetrahydrocannabinol,0,Neuroprotective,Unknown
+Beta-Caryophyllene,0,Neuroprotective,Unknown
+Anandamide,0,Neuroprotective,Unknown
+2-Arachidonoylglycerol,0,Neuroprotective,Unknown
+N-Palmitoylethanolamide,0,Neuroprotective,Unknown
+Oleaethanolamide,0,Neuroprotective,Unknown
+Nimodipine,0,Neuroprotective,Unknown
+Verapamil,0,Neuroprotective,Unknown
+Diltiazem,0,Neuroprotective,Unknown
+Amlodipine,0,Neuroprotective,Unknown
+Flunarizine,0,Neuroprotective,Unknown
+Dotarizine,0,Neuroprotective,Unknown
+MK-801,0,Neuroprotective,Unknown
+AP5,0,Neuroprotective,Unknown
+Ifenprodil,0,Neuroprotective,Unknown
+Traxoprodil,0,Neuroprotective,Unknown
+Eliprodil,0,Neuroprotective,Unknown
+Guanfacine,0,Neuroprotective,Unknown
+Clonidine,0,Neuroprotective,Unknown
+Dexmedetomidine,0,Neuroprotective,Unknown
+P7C3,0,Neuroprotective,Unknown
+LM11A-31,0,Neuroprotective,Unknown
+J147,0,Neuroprotective,Unknown
+CNB-001,0,Neuroprotective,Unknown
+T-817MA,0,Neuroprotective,Unknown
+Ladostigil,0,Neuroprotective,Unknown
+Nefiracetam,0,Neuroprotective,Unknown
+Aniracetam,0,Neuroprotective,Unknown
+Oxiracetam,0,Neuroprotective,Unknown
+Pramiracetam,0,Neuroprotective,Unknown
+Phenylpiracetam,0,Neuroprotective,Unknown
+Coluracetam,0,Neuroprotective,Unknown
+Fasoracetam,0,Neuroprotective,Unknown
+Sunifiram,0,Neuroprotective,Unknown
+Unifiram,0,Neuroprotective,Unknown
+Uridine,0,Neuroprotective,Unknown
+Docosahexaenoic Acid,0,Neuroprotective,Unknown
+Eicosapentaenoic Acid,0,Neuroprotective,Unknown
+Alpha-Linolenic Acid,0,Neuroprotective,Unknown
+Uridine Monophosphate,0,Neuroprotective,Unknown
+Agmatine,0,Neuroprotective,Unknown
+Acarbose,0,Neuroprotective,Unknown
+Spermidine,0,Neuroprotective,Unknown
+Putrescine,0,Neuroprotective,Unknown
+Spermine,0,Neuroprotective,Unknown
+L-Theanine,0,Neuroprotective,Unknown
+Taurine,0,Neuroprotective,Unknown
+Glycine,0,Neuroprotective,Unknown
+Magnesium L-Threonate,0,Neuroprotective,Unknown
+Zinc,0,Neuroprotective,Unknown
+Selenium,0,Neuroprotective,Unknown
+Astaxanthin,0,Neuroprotective,Unknown
+Lycopene,0,Neuroprotective,Unknown
+Beta-Carotene,0,Neuroprotective,Unknown
+Lutein,0,Neuroprotective,Unknown
+Zeaxanthin,0,Neuroprotective,Unknown
+Silibinin,0,Neuroprotective,Unknown
+Ursolic Acid,0,Neuroprotective,Unknown
+Oleanolic Acid,0,Neuroprotective,Unknown
+Betulinic Acid,0,Neuroprotective,Unknown
+Carnic Acid,0,Neuroprotective,Unknown
+Carnosol,0,Neuroprotective,Unknown
+Rosmarinic Acid,0,Neuroprotective,Unknown
+Chlorogenic Acid,0,Neuroprotective,Unknown
+Ferulic Acid,0,Neuroprotective,Unknown
+Caffeic Acid,0,Neuroprotective,Unknown
+Gallic Acid,0,Neuroprotective,Unknown
+Ellagic Acid,0,Neuroprotective,Unknown
+Punicic Acid,0,Neuroprotective,Unknown
+Honokiol,0,Neuroprotective,Unknown
+Magnolol,0,Neuroprotective,Unknown
+Obovatol,0,Neuroprotective,Unknown
+Parthenolide,0,Neuroprotective,Unknown
+Costunolide,0,Neuroprotective,Unknown
+Artesunate,0,Neuroprotective,Unknown
+Dihydroartemisinin,0,Neuroprotective,Unknown
+Methylene Blue,0,Neuroprotective,Unknown
+Pyrroloquinoline Quinone,0,Neuroprotective,Unknown
+Coenzyme Q9,0,Neuroprotective,Unknown
+Tetrahydrobiopterin,0,Neuroprotective,Unknown
+L-Carnitine,0,Neuroprotective,Unknown
+Acetyl-L-Carnitine,0,Neuroprotective,Unknown
+Propionyl-L-Carnitine,0,Neuroprotective,Unknown
+Alpha-Ketoglutarate,0,Neuroprotective,Unknown
+Oxaloacetate,0,Neuroprotective,Unknown
+Pyruvate,0,Neuroprotective,Unknown
+Succinate,0,Neuroprotective,Unknown
+Malate,0,Neuroprotective,Unknown
+Fumarate,0,Neuroprotective,Unknown
+Glutathione,0,Neuroprotective,Unknown
+S-Adenosylmethionine,0,Neuroprotective,Unknown
+Trimethylglycine,0,Neuroprotective,Unknown
+Choline Chloride,0,Neuroprotective,Unknown
+Inositol,0,Neuroprotective,Unknown
+Ramelteon,0,Neuroprotective,Unknown
+Tasimelteon,0,Neuroprotective,Unknown
+Agomelatine,0,Neuroprotective,Unknown
+Piromelatine,0,Neuroprotective,Unknown
+Trazodone,0,Neuroprotective,Unknown
+Nefazodone,0,Neuroprotective,Unknown
+Mirtazapine,0,Neuroprotective,Unknown
+Buspirone,0,Neuroprotective,Unknown
+Vortioxetine,0,Neuroprotective,Unknown
+Vilazodone,0,Neuroprotective,Unknown
+Linalool,0,Neuroprotective,Unknown
+Limonene,0,Neuroprotective,Unknown
+Pinene,0,Neuroprotective,Unknown
+Myrcene,0,Neuroprotective,Unknown
+Dimethyl Fumarate,0,Neuroprotective,Unknown
+Monomethyl Fumarate,0,Neuroprotective,Unknown
+Bardoxolone Methyl,0,Neuroprotective,Unknown
+Omaveloxolone,0,Neuroprotective,Unknown
+Piracetam,0,Neuroprotective,Unknown
+Etiracetam,0,Neuroprotective,Unknown
+Levetiracetam,0,Neuroprotective,Unknown
+Brivaracetam,0,Neuroprotective,Unknown
+Seletracetam,0,Neuroprotective,Unknown
+Nicotinamide,0,Neuroprotective,Unknown
+Thiamine,0,Neuroprotective,Unknown
+Riboflavin,0,Neuroprotective,Unknown
+Pantothenic Acid,0,Neuroprotective,Unknown
+Methylcobalamin,0,Neuroprotective,Unknown
+Adenosylcobalamin,0,Neuroprotective,Unknown
+Hydroxocobalamin,0,Neuroprotective,Unknown
+Folic Acid,0,Neuroprotective,Unknown
+Biotin,0,Neuroprotective,Unknown
+Ascorbic Acid,0,Neuroprotective,Unknown
+Cholecalciferol,0,Neuroprotective,Unknown
+Ergocalciferol,0,Neuroprotective,Unknown
+Alpha-Tocopherol,0,Neuroprotective,Unknown
+Gamma-Tocopherol,0,Neuroprotective,Unknown
+Delta-Tocopherol,0,Neuroprotective,Unknown
+Beta-Tocopherol,0,Neuroprotective,Unknown
+Phytonadione,0,Neuroprotective,Unknown
+Menaquinone,0,Neuroprotective,Unknown
+Sodium Phenylbutyrate,0,Neuroprotective,Unknown
+Tauroursodeoxycholic Acid,0,Neuroprotective,Unknown
+Ursodeoxycholic Acid,0,Neuroprotective,Unknown
+Obeticholic Acid,0,Neuroprotective,Unknown
+Chenodeoxycholic Acid,0,Neuroprotective,Unknown
+Cholic Acid,0,Neuroprotective,Unknown
+Deoxycholic Acid,0,Neuroprotective,Unknown
+Lithocholic Acid,0,Neuroprotective,Unknown
+Bromocriptine,0,Neuroprotective,Unknown
+Cabergoline,0,Neuroprotective,Unknown
+Pergolide,0,Neuroprotective,Unknown
+Lisuride Maleate,0,Neuroprotective,Unknown
+Terguride Maleate,0,Neuroprotective,Unknown
+Quinagolide,0,Neuroprotective,Unknown
+Piribedil,0,Neuroprotective,Unknown
+Doxycycline,0,Neuroprotective,Unknown
+Ceftriaxone,0,Neuroprotective,Unknown
+Rapamycin,0,Neuroprotective,Unknown
+Everolimus,0,Neuroprotective,Unknown
+Temsirolimus,0,Neuroprotective,Unknown
+Deforolimus,0,Neuroprotective,Unknown
+Dapagliflozin Propanediol,0,Neuroprotective,Unknown
+Coluracetam Chloride,0,Neuroprotective,Unknown
+Uridine Triphosphate,0,Neuroprotective,Unknown
+Spermidine Trihydrochloride,0,Neuroprotective,Unknown
+Spermine Tetrahydrochloride,0,Neuroprotective,Unknown
+Magnesium,0,Neuroprotective,Unknown
+Magnesium Glycinate,0,Neuroprotective,Unknown
+Magnesium Malate,0,Neuroprotective,Unknown
+Magnesium Orotate,0,Neuroprotective,Unknown
+Magnesium Taurate,0,Neuroprotective,Unknown
+Zinc Picolinate,0,Neuroprotective,Unknown
+Zinc Monomethionine,0,Neuroprotective,Unknown
+Selenomethionine Oxidized,0,Neuroprotective,Unknown
+Sodium Selenite,0,Neuroprotective,Unknown
+Sodium Selenate,0,Neuroprotective,Unknown
+Ebselen,0,Neuroprotective,Unknown
+Idebenone Quinone,0,Neuroprotective,Unknown
+Resveratrol Glucoside,0,Neuroprotective,Unknown
+Piperine,0,Neuroprotective,Unknown
+Gingerol,0,Neuroprotective,Unknown
+Shogaol,0,Neuroprotective,Unknown
+Zingerone,0,Neuroprotective,Unknown
+Eugenol,0,Neuroprotective,Unknown
+Thymol,0,Neuroprotective,Unknown
+Carvacrol,0,Neuroprotective,Unknown
+Menthol,0,Neuroprotective,Unknown
+Camphor,0,Neuroprotective,Unknown
+Borneol,0,Neuroprotective,Unknown
+Ginkgolide A,0,Neuroprotective,Unknown
+Ginkgolide C,0,Neuroprotective,Unknown
+Ginkgolide J,0,Neuroprotective,Unknown
+Ginkgolide M,0,Neuroprotective,Unknown
+Bacoside B,0,Neuroprotective,Unknown
+Bacosaponin A,0,Neuroprotective,Unknown
+Bacosaponin B,0,Neuroprotective,Unknown
+Bacosaponin C,0,Neuroprotective,Unknown
+Withaferin A,0,Neuroprotective,Unknown
+Withanolide A,0,Neuroprotective,Unknown
+Withanolide D,0,Neuroprotective,Unknown
+Withanolide E,0,Neuroprotective,Unknown
+Ginsenoside Rc,0,Neuroprotective,Unknown
+Ginsenoside Rd,0,Neuroprotective,Unknown
+Ginsenoside Re,0,Neuroprotective,Unknown
+Ginsenoside Rf,0,Neuroprotective,Unknown
+Ginsenoside F1,0,Neuroprotective,Unknown
+Compound K,0,Neuroprotective,Unknown
+Astragaloside I,0,Neuroprotective,Unknown
+Astragaloside II,0,Neuroprotective,Unknown
+Astragaloside III,0,Neuroprotective,Unknown
+Salidroside Aglycone,0,Neuroprotective,Unknown
+Tyrosol,0,Neuroprotective,Unknown
+Hydroxytyrosol,0,Neuroprotective,Unknown
+Oleuropein,0,Neuroprotective,Unknown
+Ligstroside,0,Neuroprotective,Unknown
+Verbascoside,0,Neuroprotective,Unknown
+Apigenin Glucoside,0,Neuroprotective,Unknown
+Luteolin Glucoside,0,Neuroprotective,Unknown
+Fisetinidol,0,Neuroprotective,Unknown
+Kaempferol Glucoside,0,Neuroprotective,Unknown
+Naringenin,0,Neuroprotective,Unknown
+Naringin,0,Neuroprotective,Unknown
+Hesperedin,0,Neuroprotective,Unknown
+Hesperetin,0,Neuroprotective,Unknown
+Neohesperidin,0,Neuroprotective,Unknown
+Rutinoside,0,Neuroprotective,Unknown
+Rutin,0,Neuroprotective,Unknown
+Troxerutin,0,Neuroprotective,Unknown
+Monoxerutin,0,Neuroprotective,Unknown
+Diosmin,0,Neuroprotective,Unknown
+Diosmetin,0,Neuroprotective,Unknown
+Chrysin,0,Neuroprotective,Unknown
+Baicalein,0,Neuroprotective,Unknown
+Baicalin,0,Neuroprotective,Unknown
+Wogonin,0,Neuroprotective,Unknown
+Wogonoside,0,Neuroprotective,Unknown
+Oroxylin A,0,Neuroprotective,Unknown
+Oroxylin A Glucoside,0,Neuroprotective,Unknown
+Myricetin,0,Neuroprotective,Unknown
+Myricitrin,0,Neuroprotective,Unknown
+Taxifolin,0,Neuroprotective,Unknown
+Astilbin,0,Neuroprotective,Unknown
+Engeletin,0,Neuroprotective,Unknown
+Catechin,0,Neuroprotective,Unknown
+Epicatechin,0,Neuroprotective,Unknown
+Gallocatechin,0,Neuroprotective,Unknown
+Epigallocatechin,0,Neuroprotective,Unknown
+Catechin Gallate,0,Neuroprotective,Unknown
+Epicatechin Gallate,0,Neuroprotective,Unknown
+Gallocatechin Gallate,0,Neuroprotective,Unknown
+Theaflavin,0,Neuroprotective,Unknown
+Theaflavin-3-Gallate,0,Neuroprotective,Unknown
+Theaflavin-3'-Gallate,0,Neuroprotective,Unknown
+"Theaflavin-3,3'-Digallate",0,Neuroprotective,Unknown
+Resveratrol Dimer,0,Neuroprotective,Unknown
+Viniferin,0,Neuroprotective,Unknown
+Piceatannol,0,Neuroprotective,Unknown
+Pterostilbene,0,Neuroprotective,Unknown
+Oxyresveratrol,0,Neuroprotective,Unknown
+Gnetol,0,Neuroprotective,Unknown
+Isorhamnetin,0,Neuroprotective,Unknown
+Tamarixetin,0,Neuroprotective,Unknown
+Rhamnetin,0,Neuroprotective,Unknown
+Galangin,0,Neuroprotective,Unknown
+Pinocembrin,0,Neuroprotective,Unknown
+Pinobanksin,0,Neuroprotective,Unknown
+Alpinumisoflavone,0,Neuroprotective,Unknown
+Genistein,0,Neuroprotective,Unknown
+Daidzein,0,Neuroprotective,Unknown
+Glycitein,0,Neuroprotective,Unknown
+Biochanin A,0,Neuroprotective,Unknown
+Formononetin,0,Neuroprotective,Unknown
+Equol,0,Neuroprotective,Unknown
+Coumestrol,0,Neuroprotective,Unknown
+Matairesinol,0,Neuroprotective,Unknown
+Secoisolariciresinol,0,Neuroprotective,Unknown
+Enterodiol,0,Neuroprotective,Unknown
