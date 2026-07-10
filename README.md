@@ -72,7 +72,7 @@ This project aims to:
 
 <p align="center">
 
-<img src="assets/workflow_1.png" width="75%">
+<img src="assets/workflow.png" width="75%">
 
 </p>
 
@@ -95,7 +95,7 @@ The major stages include:
 
 <p align="center">
 
-<img src="assets/ml_pipeline.png" width="75%">
+<img src="assets/ML_pipeline.png" width="75%">
 
 </p>
 
@@ -148,7 +148,7 @@ The workflow can be applied to:
 
 <p align="center">
 
-<img src="assets/software-stack.png" width="80%">
+<img src="assets/software_stack.png" width="80%">
 
 </p>
 
