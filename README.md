@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-# 🧠 Machine Learning-Based Neurotoxicity Prediction
+🧠 Machine Learning-Based Neurotoxicity Prediction
 </h1>
 
 <p align="center">
@@ -450,6 +450,40 @@ Visualizations include:
 - ROC Curve
 - Confusion Matrix
 - Feature Importance
+
+---
+
+---
+
+# 📊 Results and Visualizations
+
+The trained machine learning models were evaluated using multiple classification metrics to assess predictive performance on unseen compounds.
+
+The following visualizations summarize the overall performance of the neurotoxicity prediction pipeline.
+
+## 📉 Receiver Operating Characteristic (ROC) Curve
+
+The ROC curve illustrates the trade-off between sensitivity and specificity across different decision thresholds. A larger Area Under the Curve (AUC) indicates better classification performance.
+
+<p align="center">
+<img src="figures/roc_curve.png" width="75%">
+</p>
+
+## 🔲 Confusion Matrix
+
+The confusion matrix summarizes the prediction outcomes by comparing the true class labels against the predicted labels.
+
+<p align="center">
+<img src="figures/confusion_matrix.png" width="60%">
+</p>
+
+## ⭐ Feature Importance
+
+The most informative molecular descriptors contributing to neurotoxicity prediction are shown below.
+
+<p align="center">
+<img src="figures/feature_importance.png" width="75%">
+</p>
 
 ---
 
