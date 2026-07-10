@@ -503,6 +503,22 @@ Features include:
 
 ---
 
+## 📑 Automated HTML Report
+
+The pipeline automatically generates a comprehensive HTML report summarizing the dataset, molecular descriptors, feature distributions, missing value analysis, and machine learning performance. This report provides an interactive overview of the complete neurotoxicity prediction workflow.
+
+<p align="center">
+  <img src="figures/html_report_preview.png" width="90%" alt="HTML Report Preview">
+</p>
+
+<p align="center">
+  <em>Figure: Preview of the automatically generated HTML analysis report.</em>
+</p>
+
+> The complete report is generated automatically during execution and can be found in the `reports/` directory after running the pipeline.
+
+---
+
 # 🚀 Future Improvements
 
 Potential future enhancements include:
