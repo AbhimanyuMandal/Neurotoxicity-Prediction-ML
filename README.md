@@ -176,6 +176,7 @@ Neurotoxicity-Prediction-ML/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
+├── .gitignore
 │
 ├── assets/
 │   ├── banner.png
@@ -185,27 +186,44 @@ Neurotoxicity-Prediction-ML/
 │
 ├── data/
 │   ├── raw/
-        ├── candidate_compounds.csv
+│       ├── candidate_compounds.csv
 │   └── processed/
-        └── new_compounds.csv
+│       └── new_compounds.csv
 │
 ├── scripts/
 │   ├── 01_clean_candidate_list.py
 │   ├── 02_fetch_pubchem.py
 │   ├── 03_validate_structures.py
-    ├── 04_generate_rdkit_descriptors.py
-    ├── 05_generate_fingerprints.py
-    ├── 06_train_models.py
-    ├── 07_predict_new_compounds.py
+│   ├── 04_generate_rdkit_descriptors.py
+│   ├── 05_generate_fingerprints.py
+│   ├── 06_train_models.py
+│   ├── 07_predict_new_compounds.py
 │   └── check_descriptors.py
 │
 ├── models/
-│
+│   ├── Logistic_Regression.joblib
+│   ├── Random_Forest.joblib
+│   ├── Support_Vector_Machine.joblib
+│   ├── best_model.joblib
+│   └── feature_columns.pkl
 ├── figures/
-│
+│   ├── confusion_matrix.png
+│   ├── feature_importance.png
+│   └── roc_curve.png
 ├── reports/
-│
-└── scripts/
+│   ├── feature_importance.csv
+│   ├── metrics.txt
+│   ├── model_comparison.csv
+│   ├── prediction_report.csv
+│   └── prediction_report.html
+├── src/
+│   ├── _init_.py
+│   ├── pubchem_client.py
+│   └── utils.py
+└── utils/
+│   ├── categories.py
+│   ├── cleaner.py
+│   └── constants.py
 ```
 
 The repository follows a modular organization to improve readability, reproducibility, and future scalability.
@@ -389,28 +407,8 @@ Current models include:
 - Logistic Regression
 - Support Vector Machine (SVM)
 - Random Forest
-- XGBoost
-- Gradient Boosting
-- K-Nearest Neighbors
-- Decision Tree
-- Naive Bayes
 
 The modular workflow allows additional models to be integrated with minimal modifications.
-
----
-
-# 📜 Workflow Scripts
-
-| Script | Description |
-|----------|-------------|
-| Data Preparation | Cleans and prepares the curated compound dataset |
-| PubChem Retrieval | Downloads canonical SMILES from PubChem |
-| Descriptor Generation | Computes molecular descriptors using RDKit |
-| Fingerprint Generation | Creates molecular fingerprints |
-| Data Preprocessing | Cleans and scales feature matrices |
-| Model Training | Trains supervised ML models |
-| Model Evaluation | Calculates classification metrics |
-| Prediction | Predicts neurotoxicity for new compounds |
 
 ---
 
@@ -449,25 +447,8 @@ The following evaluation metrics are used to compare machine learning models.
 Visualizations include:
 
 - ROC Curve
-- Precision-Recall Curve
 - Confusion Matrix
 - Feature Importance
-- SHAP Summary Plot
-
----
-
-# 🔍 Explainable AI
-
-Model interpretability is performed using **SHAP (SHapley Additive Explanations)**.
-
-SHAP helps identify:
-
-- Important molecular descriptors
-- Feature contribution
-- Model decision process
-- Compound-specific explanations
-
-This improves transparency and confidence in toxicity prediction.
 
 ---
 
@@ -491,16 +472,12 @@ Features include:
 
 Potential future enhancements include:
 
-- Expand dataset to >1000 compounds
+- Increase compound database to 1000+ molecules
 - Hyperparameter optimization
-- Deep Learning models
-- Graph Neural Networks (GNN)
-- Molecular docking integration
-- ADMET prediction
-- External validation dataset
-- Web application deployment using Streamlit
-- Docker containerization
-- GitHub Actions for automated testing
+- XGBoost implementation
+- SHAP explainability
+- Web application using Streamlit
+- Docker deployment
 
 ---
 
