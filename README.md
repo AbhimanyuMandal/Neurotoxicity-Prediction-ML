@@ -95,7 +95,7 @@ The major stages include:
 
 <p align="center">
 
-<img src="assets/ML_pipeline.png" width="75%">
+<img src="assets/ML pipeline.png" width="75%">
 
 </p>
 
@@ -181,7 +181,7 @@ Neurotoxicity-Prediction-ML/
 ├── assets/
 │   ├── banner.png
 │   ├── workflow.png
-│   ├── ML_pipeline.png
+│   ├── ML pipeline.png
 │   └── software_stack.png
 │
 ├── data/
