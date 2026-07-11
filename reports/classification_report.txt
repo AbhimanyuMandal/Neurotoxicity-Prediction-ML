@@ -1,0 +1,8 @@
+                 precision    recall  f1-score   support
+
+Neuroprotective       0.82      0.84      0.83        64
+     Neurotoxic       0.86      0.84      0.85        74
+
+       accuracy                           0.84       138
+      macro avg       0.84      0.84      0.84       138
+   weighted avg       0.84      0.84      0.84       138
