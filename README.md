@@ -29,7 +29,7 @@ A reproducible machine learning framework for early prediction of drug-induced n
 
 Drug-induced neurotoxicity is a major challenge during drug discovery and development. Traditional laboratory evaluation is often expensive and time-consuming, motivating the development of computational approaches for early toxicity screening.
 
-This project presents a machine learning pipeline that predicts the neurotoxicity potential of chemical compounds using molecular descriptors generated from their chemical structures. The workflow integrates chemoinformatics, feature engineering, and supervised machine learning to classify compounds as neurotoxic or neuroprotective.
+This project presents a  pipeline that predicts the neurotoxicity potential of chemical compounds using molecular descriptors generated from their chemical structures. The workflow integrates chemoinformatics, feature engineering, and supervised machine learning to classify compounds as neurotoxic or neuroprotective.
 
 The complete pipeline covers:
 
@@ -519,15 +519,68 @@ These methods can further improve model robustness while providing greater insig
 
 # 📈 Machine Learning Models
 
-The workflow supports multiple supervised learning algorithms.
+---
 
-Current models include:
+# 📈 Model Benchmark & Performance Analysis
 
-- Logistic Regression
-- Support Vector Machine (SVM)
-- Random Forest
+Three supervised machine learning algorithms were evaluated to identify the most effective model for predicting drug-induced neurotoxicity using molecular descriptors generated from chemical structures.
 
-The modular workflow allows additional models to be integrated with minimal modifications.
+| Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
+|--------|---------:|----------:|--------:|----------:|---------:|
+| 🌲 Random Forest | **84.06%** | **86.11%** | **83.78%** | **84.93%** | **0.9061** |
+| 📈 Logistic Regression | 83.33% | 85.92% | 82.43% | 84.14% | 0.8809 |
+| ⚡ Support Vector Machine | 80.43% | 82.19% | 81.08% | 81.63% | 0.8922 |
+
+---
+
+## 🏆 Best Performing Model
+
+Among the evaluated algorithms, **Random Forest** achieved the highest predictive performance with an **ROC-AUC of 0.9061** and an overall **classification accuracy of 84.06%**.
+
+Its ensemble learning strategy effectively captured complex non-linear relationships among molecular descriptors while reducing overfitting through bootstrap aggregation and randomized feature selection.
+
+---
+
+## 🔍 Performance Analysis
+
+Each algorithm contributed unique strengths to the benchmark:
+
+### 🌲 Random Forest
+
+- Highest ROC-AUC (0.9061)
+- Best overall classification performance
+- Robust to noisy descriptors
+- Captured complex interactions between molecular properties
+
+### 📈 Logistic Regression
+
+- Strong baseline classifier
+- Highly interpretable coefficients
+- Fast training and inference
+- Demonstrated competitive performance despite its simplicity
+
+### ⚡ Support Vector Machine
+
+- Effective in high-dimensional descriptor space
+- Good balance between precision and recall
+- Slightly lower overall performance compared with Random Forest on this dataset
+
+---
+
+## 📊 Model Selection Strategy
+
+Model selection was based on multiple evaluation metrics rather than accuracy alone.
+
+The following metrics were considered during benchmarking:
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+- Cross-validation performance
+
+Although all three algorithms produced competitive results, **Random Forest demonstrated the strongest generalization capability and was therefore selected as the final prediction model.**
 
 ---
 
