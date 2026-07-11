@@ -168,6 +168,75 @@ The project integrates widely adopted open-source tools from cheminformatics, ma
 
 ---
 
+---
+
+# ⚙️ Installation
+
+Follow these steps to set up the project locally.
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/AbhimanyuMandal/Neurotoxicity-Prediction-ML.git
+cd Neurotoxicity-Prediction-ML
+```
+
+## 2. Create a Virtual Environment (Optional)
+
+**Windows**
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+**Linux / macOS**
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+## 3. Install Required Packages
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# 🚀 Running the Pipeline
+
+The workflow can be executed step-by-step using the scripts provided.
+
+### Generate Molecular Descriptors
+
+```bash
+python scripts/01_generate_descriptors.py
+```
+
+### Preprocess the Dataset
+
+```bash
+python scripts/02_preprocess_data.py
+```
+
+### Train Machine Learning Models
+
+```bash
+python scripts/06_train_models.py
+```
+
+### Predict Novel Compounds
+
+```bash
+python scripts/07_predict_new_compounds.py
+```
+
+Generated models, predictions, figures, and reports will automatically be saved in their respective directories.
+
+---
+
 # 📂 Repository Structure
 
 ```text
@@ -396,6 +465,55 @@ The project uses curated chemical compounds labelled according to their reported
 - Chemical Fingerprints
 
 Each compound is converted into numerical molecular descriptors suitable for machine learning using RDKit.
+
+---
+
+---
+
+# 🧬 Feature Engineering & Descriptor Selection
+
+Molecular descriptors generated from chemical structures often contain redundant, low-information, or unstable features. Proper feature engineering is essential to improve model performance, reduce overfitting, and enhance computational efficiency.
+
+### Current Feature Engineering Workflow
+
+The pipeline performs several preprocessing and quality-control steps before model training:
+
+- Removal of invalid molecular structures
+- Elimination of descriptors containing missing or non-numeric values
+- Removal of constant and near-constant descriptors
+- Descriptor quality filtering to retain informative molecular features
+- Construction of molecular fingerprints (Morgan/ECFP4) for structure-based learning
+
+These preprocessing steps ensure that only high-quality descriptors are used for downstream machine learning.
+
+---
+
+### Why Feature Selection Matters
+
+Reducing descriptor redundancy offers several advantages:
+
+- Improves model generalization
+- Reduces computational complexity
+- Minimizes overfitting
+- Enhances model interpretability
+- Removes noisy or non-informative variables
+
+Effective feature engineering is particularly important in cheminformatics, where hundreds of molecular descriptors can be generated from a single compound.
+
+---
+
+### Future Enhancements
+
+Future versions of the pipeline may incorporate additional dimensionality reduction and feature-selection techniques, including:
+
+- Variance Threshold Filtering
+- Correlation-Based Feature Selection
+- Recursive Feature Elimination (RFE)
+- Principal Component Analysis (PCA)
+- Mutual Information-Based Selection
+- SHAP-Based Feature Importance
+
+These methods can further improve model robustness while providing greater insight into the molecular properties most strongly associated with neurotoxicity.
 
 ---
 
